@@ -28,6 +28,7 @@ You're in the right place.
 
 > Multi-Agent Efficiency
 - **Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems**, 2024.10, [[paper]](https://arxiv.org/pdf/2410.02506)
+- **AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration**, 2025.03, [[paper]](https://arxiv.org/pdf/2503.18891)
 
 ### 🧪 2. Benchmarks & Simulations
 > Testbeds for chaos (or order).
